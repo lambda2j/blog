@@ -1,0 +1,9 @@
+baseURL = "https://lambda2j.github.io/"
+languageCode = "ko"
+title = "My New Hugo Site"
+theme = "hello-friend"
+
+contentdir = "content"
+layoutdir = "layouts"
+staticdir = "static"
+publishdir = "public"
